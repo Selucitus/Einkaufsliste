@@ -12,3 +12,6 @@ Unsere Aufgabe lautet:
 
 > In die Datei README.md erstellen Sie einen kurzen Lebenslauf von sich (...).
 > Verwenden Sie die Markdown-Syntax und gestalten Sie die Seite mit verschiedenen Elementen der Markdown-Sprache
+
+Bild:
+![Testpicture](./Testbild.png)
